@@ -1,0 +1,8 @@
+MCQs: ['data/math.csv']
+numQuizzes: 10000
+numMCQs: 10
+listTopics: []
+numTopics: 10
+topicMode: True
+levelMode: True
+orderLevel: 2

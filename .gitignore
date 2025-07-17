@@ -1,0 +1,6 @@
+__pycache__/
+py_env_fast/
+*.pyc
+*.pyo
+*.pyd
+*.pyd
