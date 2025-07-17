@@ -1,7 +1,6 @@
 # Application call:
-In order to run the code, one has to install the correct dependencies by doing:
-- pip3 install -r requirements.txt
-Then run the cmd python3 -m app.main under the app directory.
+In order to run the code, one has to install the correct dependencies by doing `pip3 install -r requirements.txt`
+Then run the command `python3 -m app.main` under the app directory.
 
 # Description of routes:
 ## **1. quizzesGen** 
